@@ -1,5 +1,4 @@
-# davrOS Linux
-Popular British Science Fiction Linux Distro.
+# Popular British Science Fiction Linux Distro.
 
 ![neofetch output](https://github.com/davrOS-Linux/davrOS/blob/main/images/showcase/neofetch_v3.png?raw=true)
 
